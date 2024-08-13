@@ -1,2 +1,2 @@
-py token_grabber.py
-pause
+py tokengrabber.py
+PAUSE
