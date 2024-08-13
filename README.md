@@ -9,6 +9,8 @@ The license under the MIT license
 
 ## How to use?
 
+0.You must have 105 IQ:)
+
 1. Open tokengrabber.py by notepad.
 
 2. Go to line 184 and column 26 and paste your webhook url.
