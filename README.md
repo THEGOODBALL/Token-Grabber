@@ -9,7 +9,7 @@ The license under the MIT license
 
 ## How to use?
 
-0.You must have 105 IQ:)
+0. You must have 105 IQ:)
 
 1. Open tokengrabber.py by notepad.
 
