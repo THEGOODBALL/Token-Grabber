@@ -1,2 +1,1 @@
 py tokengrabber.py
-PAUSE
